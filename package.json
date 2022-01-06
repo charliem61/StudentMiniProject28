@@ -1,0 +1,23 @@
+{
+  "name": "studentminiproject28",
+  "version": "1.0.0",
+  "description": "The User can use the log in NODE to enter data that will be logged into their own HTML Doc.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliem61/StudentMiniProject28.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliem61/StudentMiniProject28/issues"
+  },
+  "homepage": "https://github.com/charliem61/StudentMiniProject28#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
